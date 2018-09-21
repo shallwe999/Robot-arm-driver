@@ -11,3 +11,6 @@ down         // drop down the arm
 qdown        // drop down the arm quickly
 
 ```
+
+Baudrate: 9600
+
