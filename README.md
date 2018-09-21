@@ -1,5 +1,10 @@
 ## README
 
+- Author: Shallwe, Peter, ChampionLiu
+- Date: 2018-08-29
+- Version: 0.1.0
+- Abstract: 机载机械臂简易控制代码
+
 #### Serial Input
 
 ```C++
